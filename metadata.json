@@ -1,0 +1,5 @@
+{
+  "name": "EduStream: Modern E-Classroom",
+  "description": "A production-ready classroom management system with role-based access, assignments, attendance, and AI-powered learning assistance.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
